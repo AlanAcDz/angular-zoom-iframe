@@ -1,0 +1,4 @@
+<div class="container mt-5 h-75">
+    <h1>{{ activeMeeting?.name }}</h1>
+    <iframe [src]="url | sanitizer" frameborder="0" class="w-100 h-100"></iframe>
+</div>
