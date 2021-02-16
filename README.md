@@ -1,5 +1,10 @@
 # AngularZoomIframe
 
+You can use this Angular example project to follow these blog posts:
+
+- [DevAces post original en español](https://devaces.com.mx/blog/post/y3Iq2sh81ss1iatI4c7E)
+- [Medium blog post](https://alantheace.medium.com/the-best-way-of-setting-up-zoom-inside-your-angular-app-b370cf895477)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
 
 ## Development server
